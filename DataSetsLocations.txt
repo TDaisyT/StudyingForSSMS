@@ -1,0 +1,2 @@
+CovidDeatsh.csv and CovidVaccinations.csv: https://ourworldindata.org/covid-deaths
+NashvilleHousing.csv: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
